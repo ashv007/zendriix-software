@@ -1,0 +1,9 @@
+2025-01-01 19:48:35,432 :INFO : test_logging : Information statement
+2025-01-01 19:48:35,433 :WARNING : test_logging : A Major error has happend
+2025-01-01 19:48:35,433 :ERROR : test_logging : A major error has happend
+2025-01-01 19:48:35,433 :CRITICAL : test_logging : Critical issue
+2025-01-01 19:50:35,776 :DEBUG : test_logging : A debug statement is executed
+2025-01-01 19:50:35,776 :INFO : test_logging : Information statement
+2025-01-01 19:50:35,776 :WARNING : test_logging : A Major error has happend
+2025-01-01 19:50:35,776 :ERROR : test_logging : A major error has happend
+2025-01-01 19:50:35,776 :CRITICAL : test_logging : Critical issue
